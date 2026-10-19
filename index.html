@@ -101,6 +101,8 @@ footer{background:#071330;color:rgba(255,255,255,.6);font-size:13.5px;padding:24
 
 .stickybar{position:fixed;left:0;right:0;bottom:0;z-index:70;padding:10px 14px calc(10px + env(safe-area-inset-bottom));background:rgba(11,27,58,.94);backdrop-filter:blur(10px)}
 .stickybar .btn{padding:15px}
+.stickybar{transform:translateY(110%);transition:transform .35s ease}
+.stickybar.on{transform:none}
 
 .rv{opacity:0;transform:translateY(16px);transition:opacity .7s ease,transform .7s ease}
 .rv.in{opacity:1;transform:none}
@@ -244,7 +246,8 @@ footer{background:#071330;color:rgba(255,255,255,.6);font-size:13.5px;padding:24
 
 <script>
 const nav=document.getElementById('nav');
-const onScroll=()=>nav.classList.toggle('solid',scrollY>40);onScroll();addEventListener('scroll',onScroll,{passive:true});
+const sb=document.querySelector('.stickybar');
+const onScroll=()=>{nav.classList.toggle('solid',scrollY>40);sb.classList.toggle('on',scrollY>innerHeight*0.6)};onScroll();addEventListener('scroll',onScroll,{passive:true});
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.15});
 document.querySelectorAll('.rv').forEach((el,i)=>{el.style.transitionDelay=(i%3)*80+'ms';io.observe(el)});
 </script>
