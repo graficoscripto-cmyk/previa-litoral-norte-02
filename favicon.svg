@@ -1,16 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Puruca Passeios Náuticos">
+  <title>Puruca Passeios Náuticos</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071923"/>
-      <stop offset="100%" stop-color="#0F4C5C"/>
+    <linearGradient id="pc-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7CC4EE"/>
+      <stop offset="0.62" stop-color="#CDEBFA"/>
+      <stop offset="0.78" stop-color="#FFE3B0"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#2DD4BF"/>
-      <stop offset="100%" stop-color="#0D9488"/>
+    <linearGradient id="pc-sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2F86C6"/>
+      <stop offset="1" stop-color="#123F7A"/>
     </linearGradient>
+    <clipPath id="pc-inner"><circle cx="256" cy="256" r="150"/></clipPath>
+    <path id="pc-top" d="M 80 256 A 176 176 0 0 1 432 256"/>
+    <path id="pc-bot" d="M 44 256 A 212 212 0 0 0 468 256"/>
   </defs>
-  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
-  <path d="M32 12v22M32 12l14 15H32" fill="url(#accent)" stroke="#2DD4BF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M14 38l-3-8h42l-4 8z" fill="#FFFFFF"/>
-  <path d="M10 47c4 3 8 3 12 0 4-3 8-3 12 0 4 3 8 3 12 0 4-3 8-3 8 0" fill="none" stroke="#2DD4BF" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- anel azul-marinho com borda dupla branca -->
+  <circle cx="256" cy="256" r="250" fill="#0B2A57"/>
+  <circle cx="256" cy="256" r="236" fill="none" stroke="#fff" stroke-width="6"/>
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#fff" stroke-width="6"/>
+
+  <!-- tipografia nos arcos -->
+  <text font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="58" fill="#fff" letter-spacing="10" text-anchor="middle">
+    <textPath href="#pc-top" startOffset="50%">PURUCA</textPath>
+  </text>
+  <text font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="31" fill="#fff" letter-spacing="3" text-anchor="middle">
+    <textPath href="#pc-bot" startOffset="50%">PASSEIOS NÁUTICOS</textPath>
+  </text>
+  <!-- pontos laterais -->
+  <circle cx="58" cy="256" r="9" fill="#fff"/>
+  <circle cx="454" cy="256" r="9" fill="#fff"/>
+
+  <!-- cena central -->
+  <g clip-path="url(#pc-inner)">
+    <rect x="100" y="100" width="312" height="312" fill="url(#pc-sky)"/>
+    <!-- sol se pondo à direita -->
+    <circle cx="338" cy="292" r="34" fill="#FFB547"/>
+    <circle cx="338" cy="292" r="24" fill="#FFD27A"/>
+    <!-- mar -->
+    <rect x="100" y="292" width="312" height="130" fill="url(#pc-sea)"/>
+    <path d="M300 300h76M310 309h56M322 318h32" stroke="#FFD27A" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+    <!-- ilha com coqueiros à esquerda -->
+    <path d="M104 296c18-30 52-46 84-40 18 4 30 18 38 40z" fill="#0F5A3C"/>
+    <path d="M150 262c-2-22 2-40 10-56" stroke="#0B2A57" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M160 206c-14-8-30-6-40 4 12-2 24 0 34 6-14 0-26 6-32 16 12-6 24-8 36-6-6 8-6 18-2 26 4-10 8-18 14-24 4 8 12 14 22 16-4-10-10-18-18-22 12 0 22-4 28-12-12 2-24 2-34-2 8-6 12-14 12-22-8 6-16 12-20 20z" fill="#0B2A57"/>
+    <path d="M190 268c0-14 4-26 10-36" stroke="#0B2A57" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M200 232c-10-6-22-4-28 4 9-1 17 1 24 5-10 1-18 5-22 12 8-4 17-5 25-3-3 6-3 13 0 18 2-7 5-12 9-16 3 5 9 9 16 10-3-7-7-12-12-15 8-1 15-4 19-9-8 1-16 1-23-2 5-4 8-10 8-15-6 4-11 8-14 14z" fill="#0B2A57"/>
+    <!-- ondas na base -->
+    <path d="M100 360c26-14 52-14 78 0s52 14 78 0 52-14 78 0 52 14 78 0v62H100z" fill="#0B2A57" opacity=".55"/>
+    <path d="M100 384c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0v40H100z" fill="#0B2A57"/>
+  </g>
+
+  <!-- âncora azul-marinho com corda branca -->
+  <g>
+    <circle cx="256" cy="142" r="20" fill="none" stroke="#0B2A57" stroke-width="12"/>
+    <rect x="248" y="160" width="16" height="190" rx="6" fill="#0B2A57"/>
+    <rect x="206" y="190" width="100" height="16" rx="8" fill="#0B2A57"/>
+    <path d="M168 288c8 50 46 76 88 78 42-2 80-28 88-78" fill="none" stroke="#0B2A57" stroke-width="15" stroke-linecap="round"/>
+    <path d="M152 300l16-30 22 26z M360 300l-16-30-22 26z" fill="#0B2A57"/>
+    <!-- corda entrelaçada -->
+    <path d="M256 162c-34 6-34 34-6 44s34 36 0 46-34 36-2 46 30 30 8 42" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+    <path d="M256 162c-34 6-34 34-6 44s34 36 0 46-34 36-2 46 30 30 8 42" fill="none" stroke="#0B2A57" stroke-width="2" stroke-dasharray="5 9" stroke-linecap="round" opacity=".5"/>
+  </g>
 </svg>
