@@ -1,0 +1,40 @@
+# robots.txt — Puruca Travessias e Passeios Para Ilhas (Barra do Sahy, São Sebastião - SP)
+# Optimized for Google Search, Google Images, and AI Answer Engines (GEO)
+
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes
+
+# Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /img/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# AI Search & Answer Engine Bots (GEO Citability Allowed)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://barcopuruca.com.br/sitemap.xml

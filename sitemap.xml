@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://barcopuruca.com.br/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://barcopuruca.com.br/img/as-ilhas-hero-desktop.jpg</image:loc>
+      <image:title>As Ilhas da Barra do Sahy em São Sebastião - Travessia e Passeio de Barco Puruca</image:title>
+      <image:caption>Vista aérea de As Ilhas em frente à Praia da Barra do Sahy, São Sebastião - SP, com praia de areia branca e piscinas naturais de água cristalina.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://barcopuruca.com.br/img/barco-puruca.jpg</image:loc>
+      <image:title>Barco Puruca Passeios Náuticos (@barcopuruca) na Barra do Sahy</image:title>
+      <image:caption>Convés da embarcação própria do Puruca na Barra do Sahy com bancos estofados, piso EVA antiderrapante, toldo e coletes salva-vidas homologados.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://barcopuruca.com.br/img/barra-do-sahy-aerea.jpg</image:loc>
+      <image:title>Vista aérea da Praia da Barra do Sahy, Rio Sahy e As Ilhas ao fundo</image:title>
+      <image:caption>Panorama aéreo da Praia da Barra do Sahy em São Sebastião mostrando o ponto de embarque e a proximidade de As Ilhas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://barcopuruca.com.br/img/piscina-natural.jpg</image:loc>
+      <image:title>Piscinas naturais de As Ilhas na Barra do Sahy, São Sebastião</image:title>
+      <image:caption>Águas cristalinas verde-esmeralda nas piscinas naturais de As Ilhas, perfeitas para banho de mar e mergulho de snorkel com crianças e família.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://barcopuruca.com.br/img/as-ilhas-aerea.jpg</image:loc>
+      <image:title>Praia de areia branca em As Ilhas da Barra do Sahy</image:title>
+      <image:caption>Faixa de areia branca e mar calmo em As Ilhas, a 5 minutos de barco da Praia da Barra do Sahy com o Puruca Travessias.</image:caption>
+    </image:image>
+  </url>
+</urlset>
