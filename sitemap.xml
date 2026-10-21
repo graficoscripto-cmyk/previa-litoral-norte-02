@@ -3,33 +3,33 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://barcopuruca.com.br/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://barcopuruca.com.br/img/as-ilhas-hero-desktop.jpg</image:loc>
-      <image:title>As Ilhas da Barra do Sahy em São Sebastião - Travessia e Passeio de Barco Puruca</image:title>
-      <image:caption>Vista aérea de As Ilhas em frente à Praia da Barra do Sahy, São Sebastião - SP, com praia de areia branca e piscinas naturais de água cristalina.</image:caption>
+      <image:title>Passeio de Barco Barra do Sahy, Juquehy e Praia da Baleia para As Ilhas - Puruca</image:title>
+      <image:caption>Vista aérea de As Ilhas atendendo Barra do Sahy, Juquehy e Praia da Baleia (Bairro da Baleia) em São Sebastião - SP, com praia de areia branca e piscinas naturais de água cristalina.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://barcopuruca.com.br/img/lancha-puruca-perfil.jpg</image:loc>
+      <image:title>Lancha Puruca Passeios Náuticos (@barcopuruca) - Barra do Sahy, Juquehy e Praia da Baleia</image:title>
+      <image:caption>Lancha própria do Puruca para até 19 pessoas com motor Yamaha 200HP e capota de sombra, atendendo Barra do Sahy, Juquehy e Praia da Baleia.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://barcopuruca.com.br/img/barco-puruca.jpg</image:loc>
-      <image:title>Barco Puruca Passeios Náuticos (@barcopuruca) na Barra do Sahy</image:title>
-      <image:caption>Convés da embarcação própria do Puruca na Barra do Sahy com bancos estofados, piso EVA antiderrapante, toldo e coletes salva-vidas homologados.</image:caption>
+      <image:title>Barco Puruca Passeios Náuticos (@barcopuruca) na Barra do Sahy, Juquehy e Baleia</image:title>
+      <image:caption>Convés da embarcação própria do Puruca com bancos estofados, piso EVA antiderrapante, toldo e coletes salva-vidas homologados.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://barcopuruca.com.br/img/barra-do-sahy-aerea.jpg</image:loc>
-      <image:title>Vista aérea da Praia da Barra do Sahy, Rio Sahy e As Ilhas ao fundo</image:title>
-      <image:caption>Panorama aéreo da Praia da Barra do Sahy em São Sebastião mostrando o ponto de embarque e a proximidade de As Ilhas.</image:caption>
+      <image:title>Vista aérea da Praia da Barra do Sahy e As Ilhas - Próximo a Juquehy e Praia da Baleia</image:title>
+      <image:caption>Panorama aéreo da Praia da Barra do Sahy em São Sebastião, entre a Praia da Baleia e Juquehy, em frente a As Ilhas.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://barcopuruca.com.br/img/piscina-natural.jpg</image:loc>
-      <image:title>Piscinas naturais de As Ilhas na Barra do Sahy, São Sebastião</image:title>
+      <image:title>Piscinas naturais de As Ilhas - Passeio de Barco Barra do Sahy, Juquehy e Baleia</image:title>
       <image:caption>Águas cristalinas verde-esmeralda nas piscinas naturais de As Ilhas, perfeitas para banho de mar e mergulho de snorkel com crianças e família.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://barcopuruca.com.br/img/as-ilhas-aerea.jpg</image:loc>
-      <image:title>Praia de areia branca em As Ilhas da Barra do Sahy</image:title>
-      <image:caption>Faixa de areia branca e mar calmo em As Ilhas, a 5 minutos de barco da Praia da Barra do Sahy com o Puruca Travessias.</image:caption>
     </image:image>
   </url>
 </urlset>

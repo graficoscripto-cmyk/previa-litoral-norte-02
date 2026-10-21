@@ -1,10 +1,16 @@
-# Puruca Passeios Náuticos (@barcopuruca) — Puruca Travessias e Passeios Para Ilhas
+# Puruca Passeios Náuticos (@barcopuruca) — Passeio de Barco em Barra do Sahy, Juquehy e Praia da Baleia
 
-> Travessia de barco para As Ilhas e 4 roteiros de lancha pelas ilhas de São Sebastião, saindo da Praia da Barra do Sahy (Litoral Norte de São Paulo, Brasil). Lancha própria para até 19 pessoas. Saídas diárias às 09h00 e às 12h30. Nota 4,9 de 5 estrelas em 68 avaliações no Google Maps.
+> Travessia rápida de barco para As Ilhas (5 a 10 minutos) e 4 roteiros de lancha pelas ilhas de São Sebastião, atendendo diretamente **Barra do Sahy**, **Juquehy (Juqueí)** e **Praia da Baleia (Bairro da Baleia)** no Litoral Norte de São Paulo, Brasil. Lancha própria para até 19 pessoas. Saídas diárias às 09h00 e às 12h30. Nota 4,9 de 5 estrelas em 68 avaliações no Google Maps.
+
+## Regiões e Praias Atendidas Diretamente
+1. **Praia da Barra do Sahy** (São Sebastião – SP): ponto em frente a As Ilhas (~800m da areia, 5 minutos de travessia).
+2. **Praia de Juquehy / Juqueí** (São Sebastião – SP): atendimento direto para turistas e moradores de Juquehy.
+3. **Praia da Baleia / Bairro da Baleia** (São Sebastião – SP): atendimento direto para turistas, condomínios e pousadas do Bairro da Baleia.
 
 ## Dados oficiais e contato (NAP)
 - **Marca:** PURUCA PASSEIOS NÁUTICOS (`@barcopuruca`). Nome no Google: Puruca Travessias e Passeios Para Ilhas.
-- **Ponto de embarque:** Praia da Barra do Sahy — R. Srg. Vicentino Marques, São Sebastião – SP, CEP 11622-136
+- **Praias atendidas:** Barra do Sahy, Juquehy e Praia da Baleia (Bairro da Baleia)
+- **Endereço base:** Praia da Barra do Sahy — R. Srg. Vicentino Marques, São Sebastião – SP, CEP 11622-136
 - **Coordenadas:** `-23.7743844, -45.6914783`
 - **WhatsApp e telefone:** +55 (12) 99709-6491 — [Reservar pelo WhatsApp](https://wa.me/5512997096491)
 - **Instagram:** [@barcopuruca](https://www.instagram.com/barcopuruca/)
@@ -13,26 +19,27 @@
 - **Capacidade:** até 19 pessoas por saída
 - **Avaliação no Google:** 4,9 ★ (68 avaliações) — [Ficha no Google Maps](https://www.google.com/maps/place/?q=place_id:ChIJq9Mb4RCHzZQR3CoVBQCFjvc)
 
-## Roteiros e preços oficiais
+## Roteiros e preços oficiais (atendendo Barra do Sahy, Juquehy e Praia da Baleia)
 1. **Roteiro 1 — Travessia para As Ilhas:** As Ilhas são formadas por duas praias. A lancha passa em frente às duas, o cliente escolhe em qual ficar e o retorno é no horário combinado. **R$ 70 por pessoa** (mínimo de 3 pessoas). Casal (2 pessoas): saída mínima de **R$ 200 o casal**. Travessia de cerca de 5 a 10 minutos.
 2. **Roteiro 2 — Ilha dos Gatos + Ilha das Couves + As Ilhas:** passeio pelas três ilhas; As Ilhas é a última parada, onde o cliente pode ficar na praia e combinar o retorno. **R$ 180 por pessoa** (mínimo de 4 pessoas).
 3. **Roteiro 3 — Montão de Trigo + Ilha das Couves + As Ilhas:** três destinos paradisíacos, duração média de **4 horas**. **R$ 250 por pessoa** (mínimo de 5 pessoas).
 4. **Roteiro 4 — Ilha dos Gatos + Montão de Trigo + Ilha das Couves + As Ilhas:** roteiro completo pelos quatro destinos, duração média de **5 horas**. **R$ 300 por pessoa** (mínimo de 5 pessoas).
 
-O site tem um simulador: o visitante escolhe roteiro, número de pessoas (2 a 19), horário e data, vê o valor estimado e envia a mensagem pronta para o WhatsApp do Puruca.
+O site tem um simulador interativo: o visitante escolhe o roteiro, seleciona em qual praia está (**Barra do Sahy**, **Juquehy** ou **Praia da Baleia**), número de pessoas (2 a 19), horário e data, vê o valor estimado e envia a mensagem pronta para o WhatsApp do Puruca.
 
 ## A lancha
 - Capota azul de sombra, bancos estofados azul e bege, piso náutico em EVA amadeirado com rosa dos ventos.
 - Motor Yamaha 200HP Four Stroke, escada de inox na popa e coletes salva-vidas para todos a bordo.
 
-## Distância das praias vizinhas (de carro, Rodovia Rio-Santos BR-101)
-- **Praia da Baleia:** 3 minutos
-- **Juquehy:** 8 minutos
+## Proximidade entre as praias atendidas (Costa Sul de São Sebastião, BR-101)
+- **Barra do Sahy:** em frente a As Ilhas (5 min de barco)
+- **Praia da Baleia (Bairro da Baleia):** colada na Barra do Sahy (3 minutos)
+- **Juquehy (Juqueí):** vizinha imediata (8 minutos)
 - **Camburi e Camburizinho:** 10 minutos
 - **Barra do Una:** 12 minutos
 - **Boiçucanga:** 15 minutos
 - **Maresias:** 22 minutos
 
 ## Links principais
-- [Página inicial e reservas](https://barcopuruca.com.br/): roteiros, preços, simulador de reserva, vídeos e fotos reais da lancha, avaliações e perguntas frequentes.
+- [Página inicial e reservas](https://barcopuruca.com.br/): roteiros, preços, simulador de reserva por praia (Barra do Sahy, Juquehy e Praia da Baleia), vídeos e fotos reais da lancha, avaliações e perguntas frequentes.
 - [WhatsApp direto](https://wa.me/5512997096491): disponibilidade e condição do mar no dia.
